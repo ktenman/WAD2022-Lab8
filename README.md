@@ -1,4 +1,4 @@
-# vuejs-i-toz
+# vuejs-i
 
 ## Project setup
 ```
